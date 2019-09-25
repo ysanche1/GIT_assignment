@@ -1,3 +1,5 @@
 This is the initial contents
-of UserB's sadness that plagues
+<<<<<<< HEAD
+of UserB's sadness that plagues of UserA's dominance in
+>>>>>>> e697105fea0b1a5bee9d02716f848772ad86cb47
 our most excellent project.
